@@ -1,0 +1,15 @@
+Package: numa
+Title: package developed to facilitate numerical analysis and data manipulation in the field of scientific computing
+Version: 0.0.0.9000
+Authors@R: 
+    person("Idriss", "Wendeu", , "idrisswendeuk@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package provides a collection of powerful 
+             and efficient functions that enable solving complex mathematical 
+             problems and performing precise numerical calculations.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+        R (>= 3.0.0)
